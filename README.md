@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ksmindpks
 - 👀 I’m interested in programming using kind languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on building my project
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on building my project with our colleague
+- 📫 How to reach me 1) ksparkp@naver.com or ksparkp@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

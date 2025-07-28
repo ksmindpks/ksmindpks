@@ -6,9 +6,9 @@
 
 
 # LINK
-### 공부일지 <a href="https://github.com/ksmindpks/ai_x">공부일지</a>
-### 1st TEAM PROJECT <a href="https://github.com/cwal8202/Deep-Dish">Deep-Dish</a>
-### 2ed TEAM PROJECT <a href=">앞으로 해야함</a>
+### 공부일지 <a href="https://github.com/ksmindpks/ai_x">[공부일지]</a>
+### 1st TEAM PROJECT <a href="https://github.com/cwal8202/Deep-Dish">[Deep-Dish]</a>
+### 2ed TEAM PROJECT <a href=">[앞으로 해야함]</a>
 
 
  # 📚 SKIL

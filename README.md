@@ -3,13 +3,12 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building my project with our colleagues
 - 📫 If you want to reach me, email 1) ksparkp@naver.com or ksparkp@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 # LINK
-### 공부일지 <a href="https://github.com/ksmindpks/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 공부일지 <a href="https://github.com/ksmindpks/ai_x">공부일지</a>
 ### 1st TEAM PROJECT <a href="https://github.com/cwal8202/Deep-Dish">Deep-Dish</a>
-### 2ed TEAM PROJECT <a href="></a>
+### 2ed TEAM PROJECT <a href=">앞으로 해야함</a>
 
 
  # 📚 SKIL

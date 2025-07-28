@@ -8,8 +8,8 @@
 
 # LINK
 ### 공부일지 <a href="https://github.com/ksmindpks/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st TEAM PROJECT <a href="https://github.com/ksmindpks/Deep-Seek"><img src="https://img.shields.io/badge/PROJ[Deep-Seek]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 1st TEAM PROJECT <a href="https://github.com/cwal8202/Deep-Dish">Deep-Dish</a>
+### 2ed TEAM PROJECT <a href="></a>
 
 
  # 📚 SKIL
